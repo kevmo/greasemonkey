@@ -3,7 +3,7 @@
 // @namespace     kevmo.info
 // @description  Visits profiles okc thinks you'd be interested in 
 // @include       http://*.okcupid.com/*
-// @include       https://*okcupied.com/*
+// @include       https://*.okcupid.com/*
 // ==/UserScript==
 
 /*REMEMBER: THIS SCRIPT WILL RUN UNTIL YOU TURN IT OFF
